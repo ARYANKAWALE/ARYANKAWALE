@@ -1,7 +1,7 @@
 <!-- ======================================================
   GitHub Profile README for Aryan Kawale
   Copy-paste this into: README.md in your profile repo
-  Repo name must match your username: ARYANKAWALE
+  Repo name must match your username: AryanKawale (example)
 ====================================================== -->
 
 <div align="center">
@@ -70,7 +70,7 @@
 
 ---
 
-## 🏆 GitHub Stats
+## 🏆 GitHub Stats (Animated)
 
 <div align="center">
 
@@ -80,8 +80,7 @@
 
 <br/>
 
-<!-- Enhanced: area=true for better look + stable -->
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=ARYANKAWALE&theme=tokyo-night&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ARYANKAWALE&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -107,7 +106,10 @@
 
 ## 🧩 Featured Projects
 
+> (Replace these with your real repos)
+
 * 🌦 **Weather App** — Search + history + UI polish
+* 💘 **Romantic Portfolio Website** — personal + customizable
 * 🧮 **Age Calculator** — simple, clean & deployed
 
 <div align="center">
@@ -132,3 +134,46 @@
 
 def solve(problem):
     return "Consistency > Motivation"
+```
+
+---
+
+## 🐍 Snake Eating My Contributions (Animation)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ARYANKAWALE/ARYANKAWALE/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+> ✅ To enable snake animation: use this action in your repo → **Platane/snk**.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@YOUR_YOUTUBE">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Quote I live by
+
+> **“Discipline beats talent when talent doesn’t show up.”**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer" />
+
+</div>
