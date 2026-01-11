@@ -70,7 +70,7 @@
 
 ---
 
-## 🏆 GitHub Stats (Animated)
+## 🏆 GitHub Stats
 
 <div align="center">
 
@@ -88,7 +88,6 @@
 
 ## ⚡ LeetCode / DSA Zone
 
-> I grind DSA in Python because that’s the fastest route to **logic + confidence**.
 
 * 🧩 Arrays / Strings / Hashing
 * 🔥 Recursion / Backtracking
@@ -106,17 +105,15 @@
 
 ## 🧩 Featured Projects
 
-> (Replace these with your real repos)
 
 * 🌦 **Weather App** — Search + history + UI polish
-* 💘 **Romantic Portfolio Website** — personal + customizable
 * 🧮 **Age Calculator** — simple, clean & deployed
 
 <div align="center">
 
-<a href="https://github.com/ARYANKAWALE/Age-Calculator">
+<!-- <a href="https://github.com/ARYANKAWALE/Age-Calculator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ARYANKAWALE&repo=Age-Calculator&theme=tokyonight&hide_border=true" />
-</a>
+</a> -->
 
 </div>
 
@@ -146,7 +143,6 @@ def solve(problem):
 
 </div>
 
-> ✅ To enable snake animation: use this action in your repo → **Platane/snk**.
 
 ---
 
@@ -159,9 +155,9 @@ def solve(problem):
   <a href="https://www.instagram.com/YOUR_INSTAGRAM/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@YOUR_YOUTUBE">
+  <!-- <a href="https://www.youtube.com/@YOUR_YOUTUBE">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
