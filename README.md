@@ -18,11 +18,8 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 BCCA student in **G H Raisoni College, Nagpur**
-* 🌍 From **Bhandara → Nagpur**
-* 💻 Full-Stack Developer (Frontend + Backend)
-* 🧠 DSA Programmer in **Python**
-* 🎯 Goal: build serious skills + ship real projects
+Hi, I’m **Aryan Kawale**, a **BCCA student at G H Raisoni College, Nagpur**, originally from **Bhandara**. I’m a **Full-Stack Developer** who enjoys building real-world projects and improving daily through consistent practice. Along with development, I actively work on **DSA in Python** to sharpen my problem-solving skills. My goal is simple: **build strong skills, ship meaningful projects, and grow step-by-step**.
+
 
 > I don’t just “learn”. I **build**, I **break**, I **fix**, and I **repeat**.
 
