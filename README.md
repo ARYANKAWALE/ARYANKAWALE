@@ -148,10 +148,10 @@ def solve(problem):
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/aryan-kawale-19a919266/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/">
+  <a href="https://www.instagram.com/aryan_kawale._/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <!-- <a href="https://www.youtube.com/@YOUR_YOUTUBE">
