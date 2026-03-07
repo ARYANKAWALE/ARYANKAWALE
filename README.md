@@ -27,8 +27,8 @@ Hi, I’m **Aryan Kawale**, a **BCCA student at G H Raisoni College, Nagpur**, o
 
 ## 🔥 Current Focus
 
-* ✅ Building Full-Stack Projects (MERN style)
-* ✅ Mastering DSA with Python (LeetCode / CodeChef)
+* ✅ Building Full-Stack Projects (MERN stack)
+* ✅ Mastering DSA with Python (LeetCode)
 * ✅ Improving system design + clean code habits
 
 ---
@@ -105,8 +105,8 @@ Hi, I’m **Aryan Kawale**, a **BCCA student at G H Raisoni College, Nagpur**, o
 ## 🧩 Featured Projects
 
 
-* 🌦 **Weather App** — Search + history + UI polish
-* 🧮 **Age Calculator** — simple, clean & deployed
+*  **Weather App** — Search + history + UI polish
+*  **AI CHATAPP** — simple, clean & deployed
 
 <div align="center">
 
