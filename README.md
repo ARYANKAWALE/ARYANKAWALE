@@ -59,11 +59,19 @@ Hi, I’m **Aryan Kawale**, a **BCCA student at G H Raisoni College, Nagpur**, o
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
+### 🚀 Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
 ### 🧠 DSA / Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
+
+
 
 ---
 
