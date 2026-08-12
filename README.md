@@ -79,10 +79,6 @@ Hi, I’m **Aryan Kawale**, a **BCCA student at G H Raisoni College, Nagpur**, o
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARYANKAWALE&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYANKAWALE&layout=compact&theme=tokyonight&hide_border=true" />
-
 
 
 <br/>
