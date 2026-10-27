@@ -71,24 +71,6 @@ Hi, I’m **Aryan Kawale**, a **BCCA student at G H Raisoni College, Nagpur**, o
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-
-
----
-
-## 🏆 GitHub Stats
-
-<div align="center">
-
-
-
-<br/>
-
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ARYANKAWALE&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
 ## ⚡ LeetCode / DSA Zone
 
 
